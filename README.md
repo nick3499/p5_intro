@@ -52,4 +52,4 @@ The P5.js dev library may also be linked with a content delivery network. But as
 
 ## Preformatted Text
 
-`index.html` file may contain preformatted text to display P5.js code used.
+`index.html` file may contain preformatted text to display P5.js code used, which can be removed.
