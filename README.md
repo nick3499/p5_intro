@@ -44,7 +44,7 @@ draw = () => {
 
 ## JavaScript Library
 
-The P5.js dev library may also be linked with a content delivery network.
+The P5.js dev library may also be linked with a content delivery network. But as sketch complexity increases, a local P5.js development library can become a convenient reference.
 
 ```html
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
