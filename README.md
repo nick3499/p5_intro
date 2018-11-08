@@ -25,7 +25,7 @@ draw = () => {
 
 ### ES6 Arrow Functions
 
-The line `setup = () => {` demos ES6 arrow functions, which are optional.
+The line `setup = () => {` demos [ES6 arrow functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/), which are optional.
 
 ## index.html
 
