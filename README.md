@@ -42,6 +42,14 @@ draw = () => {
 </html>
 ```
 
+## JavaScript Library
+
+The P5.js dev library may also be linked with a content delivery network.
+
+```html
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.js"></script>
+```
+
 ## Preformatted Text
 
 `index.html` file may contain preformatted text to display P5.js code used.
