@@ -1,5 +1,6 @@
 # p5_intro
 P5.js: Intro Demos
+ * [based on code featured in the book titled [Learning JavaScript with p5.js](https://www.codingforvisuallearners.com/)]
 
 ## Paths
 
@@ -40,3 +41,7 @@ draw = () => {
   </body>
 </html>
 ```
+
+## Preformatted Text
+
+`index.html` file may contain preformatted text to display P5.js code used.
