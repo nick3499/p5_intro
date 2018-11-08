@@ -3,9 +3,9 @@ P5.js: Intro Demos
 
 ## Paths
 
- * /p5_intro/index.html
- * /p5_intro/lib/p5.js
- * /p5_intro/sketch.js
+ * /p5_intro/rect_ellipse/index.html
+ * /p5_intro/rect_ellipse/lib/p5.js
+ * /p5_intro/rect_ellipse/sketch.js
 
 ## sketch.js
 
