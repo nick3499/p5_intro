@@ -23,6 +23,10 @@ draw = () => {
 }
 ```
 
+### ES6 Arrow Functions
+
+The line `setup = () => {` demos ES6 arrow functions, which are optional.
+
 ## index.html
 
 ```html
