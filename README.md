@@ -2,6 +2,8 @@
 P5.js: Intro Demos
  * [based on code featured in the book titled [Learning JavaScript with p5.js](https://www.codingforvisuallearners.com/)]
 
+![P5.js Example](https://github.com/nick3499/p5_intro/blob/master/rect-ellipse-p5-js.png)
+
 ## Paths
 
  * /p5_intro/rect_ellipse/index.html
