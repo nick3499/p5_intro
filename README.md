@@ -11,6 +11,7 @@ P5.js: Intro Demos
  3. dolly
  4. do_not_enter
  5. frame_count
+ 6. growing_sign
 
 ## Paths
 
