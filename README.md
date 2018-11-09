@@ -13,6 +13,8 @@ P5.js: Intro Demos
  5. frame_count
  6. growing_sign
  7. if_statement
+ 8. mouse_pressed
+ 9. mousex_mousey
 
 ## Paths
 
