@@ -10,6 +10,7 @@ P5.js: Intro Demos
  2. colors
  3. dolly
  4. do_not_enter
+ 5. frame_count
 
 ## Paths
 
