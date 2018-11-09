@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Dolly
+    </title>
+  </head>
+  <body>
+    <h3>sketch.js</h3>
+    <pre>
+setup = () => {
+  createCanvas(800, 300)
+}
+
+draw = () => {
+  background(220)
+  const offset = 150
+  ellipse(100 + offset, 200, 50, 50)
+  ellipse(200 + offset, 200, 50, 50)
+  rect(50 + offset, 160, 200, 20)
+}
+    </pre>
+    <script type="text/javascript" src="../lib/p5.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
+    <canvas></canvas>
+  </body>
+</html>
