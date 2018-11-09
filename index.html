@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Frame Count
+    </title>
+  </head>
+  <body>
+    <h3>sketch.js</h3>
+    <pre>
+setup = () => {
+  createCanvas(800, 300)
+  textAlign(CENTER, CENTER)
+  frameRate(6)
+}
+
+draw = () => {
+  background(220)
+  fill(237, 34, 93)
+  textSize(36)
+  text("frameCount: " + frameCount, width/2, height/2)
+}
+    </pre>
+    <script type="text/javascript" src="../../lib/p5.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
+    <canvas></canvas>
+  </body>
+</html>
