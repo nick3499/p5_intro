@@ -4,6 +4,13 @@ P5.js: Intro Demos
 
 ![P5.js Example](https://github.com/nick3499/p5_intro/blob/master/rect-ellipse-p5-js.png)
 
+## Directory Order
+
+ 1. rect_ellipse
+ 2. colors
+ 3. dolly
+ 4. do_not_enter
+
 ## Paths
 
  * /p5_intro/rect_ellipse/index.html
