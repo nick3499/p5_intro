@@ -12,6 +12,7 @@ P5.js: Intro Demos
  4. do_not_enter
  5. frame_count
  6. growing_sign
+ 7. if_statement
 
 ## Paths
 
