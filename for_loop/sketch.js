@@ -3,8 +3,8 @@ setup = () => {
 }
 
 draw = () => {
-  background(1, 75, 100)
-  fill(237, 34, 93)
+  background(47, 77, 72)
+  fill(181, 181, 70)
   noStroke()
   let dia = 50
   for (let i = 0; i < width / dia; i = i + 1) {
