@@ -11,7 +11,8 @@ draw = () => {
   for (let i = 0; i < width / dia; i = i + 1) {
     for (let j = 0; j < height / dia; j = j + 1) {
       ellipse(dia / 2 + i * dia, dia / 2 + j * dia,
-        dia * noise(frameCount/100), dia * noise(frameCount/100))
+        dia * noise(frameCount/100 + j*10000 + i*10000),
+        dia * noise(frameCount/100 + j*10000 + i*10000))
     }
   }
 }
