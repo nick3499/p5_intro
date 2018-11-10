@@ -15,6 +15,7 @@ P5.js: Intro Demos
  7. if_statement
  8. mouse_pressed
  9. mousex_mousey
+ 10. for_loop
 
 ## Paths
 
