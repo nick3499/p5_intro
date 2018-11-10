@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      For Loop Noise
+    </title>
+  </head>
+  <body>
+    <h3>sketch.js</h3>
+    <pre>
+setup = () => {
+  createCanvas(800, 300)
+  frameRate(5)
+}
+
+draw = () => {
+  background(47, 77, 72)
+  fill(181, 181, 70)
+  noStroke()
+  let dia = 50
+  for (let i = 0; i < width / dia; i = i + 1) {
+    for (let j = 0; j < height / dia; j = j + 1) {
+      ellipse(dia / 2 + i * dia, dia / 2 + j * dia,
+        dia * noise(frameCount/100), dia * noise(frameCount/100))
+    }
+  }
+}
+    </pre>
+    <script type="text/javascript" src="../../lib/p5.js"></script>
+    <script type="text/javascript" src="sketch.js"></script>
+    <canvas></canvas>
+  </body>
+</html>
