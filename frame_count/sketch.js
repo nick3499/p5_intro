@@ -5,8 +5,8 @@ setup = () => {
 }
 
 draw = () => {
-  background(220)
-  fill(237, 34, 93)
+  background(249, 202, 6)
+  fill(33, 43, 47)
   textSize(36)
   text("frameCount: " + frameCount, width/2, height/2)
 }
