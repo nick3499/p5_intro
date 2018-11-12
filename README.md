@@ -18,6 +18,7 @@ P5.js: Intro Demos
  10. for_loop
  11. random_numbers
  12. grid
+ 13. array
 
 ## Paths
 
