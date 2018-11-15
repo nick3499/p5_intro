@@ -65,7 +65,7 @@ The line `setup = () => {` demos [ES6 arrow functions](https://www.sitepoint.com
 </html>
 ```
 
-## JavaScript Library
+## External Library
 
 The P5.js dev library may also be linked with a content delivery network. But as sketch complexity increases, a local P5.js development library can become a convenient reference.
 
