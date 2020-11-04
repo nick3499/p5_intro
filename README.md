@@ -78,3 +78,5 @@ The P5.js dev library may also be linked with a content delivery network. But as
 `index.html` file may contain preformatted text to display P5.js code used, which can be removed.
 
 Know that a `pre` element has precedence over the `canvas` element in the DOM. Also, text can be displayed on the canvas.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
